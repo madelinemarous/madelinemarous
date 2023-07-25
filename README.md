@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @madelinemarous
 - 👀 I’m interested in computer and data science, application development, cybersecurity, biology, and sustainability studies.
 - 🌱 I’m currently learning graphical user interface implementation and ionizing radiation at NASA Ames Research Center in Silicon Valley, California
-- 📫 You can reach me at madelinemarous@outlook.com
+- 📫 You can reach me at madelinemarous@outlook.com or on my LinkedIn: https://www.linkedin.com/in/madeline-marous-34687624a/
