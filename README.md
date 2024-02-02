@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @madelinemarous
 - 👀 I’m interested in computer and data science, application development, cybersecurity, biology, soil chemistry, environmental and climate science, and sustainability studies.
 - 🌱 I contributed to AMMPER, an agent-based microbial radiobiology model via graphical user interface implementation at NASA Ames Research Center in Silicon Valley, California
-- ⌨️ I am selected for an internship in code migration at NASA Glenn Research Center
+- ⌨️ I currently interning in code migration at NASA Glenn Research Center
 - 📫 You can reach me at madelinemarous@outlook.com or madeline.v.marous@nasa.gov on my LinkedIn: https://www.linkedin.com/in/madeline-marous-34687624a/
